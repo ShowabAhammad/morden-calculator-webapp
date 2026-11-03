@@ -2,6 +2,8 @@
 
 A modern calculator web app built with HTML, CSS, and JavaScript.
 
+Created by: Showab Ahammad
+
 ## Features
 - Clean glassmorphism layout
 - Responsive design
